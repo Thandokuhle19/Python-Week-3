@@ -62,3 +62,9 @@ _Weather Forecasting with OpenWeatherMap:_
                 -  Use a Python web-scraping library: extract forecast information from a website like wether.com
                 -  Search the Python Package Index for a Python library that can retrieve weather data from online source.
                 -  Find an online source of weather information that provides an API we can directly call from our program.
+- As an online source, we will use openweathermap.org.
+- OpenWeatherMap offers various callable APIs to access current and forecast weather information.
+
+_Trending Social Media Content(Twitter):_
+
+- 

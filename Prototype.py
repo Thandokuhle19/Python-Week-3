@@ -2,6 +2,7 @@ from customtkinter import *
 import csv
 import customtkinter
 import tkinter as tk
+
 class main():
     incrimented_Value = 0
     def __init__(self):
@@ -19,7 +20,7 @@ class main():
         self.lblemail.grid(row = 1, column = 0, padx = 10, pady = 10)
         self.lblupassword = CTkLabel(self.root, text="Enter your password:")
         self.lblupassword.grid(row = 2, column = 0, padx = 10, pady = 10)
-        self.lblupassword2 = CTkLabel(self.root, text="Enter your password:")
+        self.lblupassword2 = CTkLabel(self.root, text="Confirm your password:")
         self.lblupassword2.grid(row = 3, column = 0, padx = 10, pady = 10)
 
         def loggedin():
